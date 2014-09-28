@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vlille</string>
+    <string name="title_section1">Stations</string>
+    <string name="title_section2">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_station">StationActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
